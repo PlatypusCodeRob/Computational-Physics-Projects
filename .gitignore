@@ -2,4 +2,5 @@
 
 #*.ipynb            #dont push this type of files
 ignore_this.txt     #dont push this file
+ignore_this2.txt    #dont push this file
 .ipynb_checkpoints  #dont push this directory
